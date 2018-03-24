@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapbox, San Francisco",
+        "housenumber":"149",
+        "street": "9th Street",
+        "area": "West SoMa",
+        "city": "San Francisco 94103, California", 
+        // "state":"California",
+        "postcode": "94103",
+        "country": "United States of America",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "language": [
+          "SPN",
+          "GRC",
+          "GER",
+          "ITA",
+          "CAN",
+          "CHN",
+          "FRN",
+          "JPN",
+          "VIT",
+          "GHA",
+          "TWI"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4135223031044,
+          37.77573520373188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":"Mapbox, DC",
+        "housenumber":"1714 Rear",
+        "street": "14th Street Northwest", 
+        "area": "Logan Circle/Shaw, Logan Circle",
+        "city": "Washington 20009, District of Columbia",
+        // "state":"District of Columbia",
+        "postcode": "20009",
+        "country": "United States of America",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "language": [
+          "FRN",
+          "ARA",
+		      "SPN",
+          "POR",
+          "CHN",
+          "GER",
+          "RUS",
+          "CAN",
+          "DUT",
+          "LAT",
+          "HIN",
+          "UKR",
+          "MAN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032530605793,
+          38.91318794578371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapbox, Peru",
+        "housenumber": "Jirón Jose Santos Chocano",
+        "street": "Panpa del Arco I",
+        "area" :"Distrito de Jesús Nazareno", 
+        "city":"Huamanga 05011, Ayacucho",
+        // "state": "Ayacucho",
+        "postcode": "05011",
+        "country": "Peru",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "language": [
+          "SPN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21789824962616,
+          -13.155898746994458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapbox, Bengaluru",
+        "housenumber":"No 221",
+        "street": "13th Cross Road",
+        "area": "2nd Main Indiranagar",
+        "city": "Bengaluru 560038, Karnataka",
+        // "state": "Karnataka",
+        "postcode": "560038",
+        "country":"India",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "language": [
+          "TAM",
+          "HIN",
+          "MAL",
+          "GUJ",
+          "BEN",
+          "FLP",
+          "SPN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63682425022125,
+          12.981067249434366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":"Mapbox, Berlin",
+        "housenumber":"8",
+        "street": "Adalbertstraße",
+        "area": " Kreuzberg",
+        "city": "Berlin 10999",
+        // "state": "",
+        "postcode": "10999",
+        "country":"Germany",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "language": [
+          "GER",
+          "FRN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.419732749462128,
+          52.50038708206194
+        ]
+      }
+    }
+  ]
+}
